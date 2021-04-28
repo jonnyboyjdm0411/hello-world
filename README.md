@@ -1,2 +1,1 @@
-# hello-world
-# This is a test right now.
+# I will continue to edit this README file until I understand Git.
